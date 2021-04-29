@@ -1,0 +1,15 @@
+{
+  "name": "loris",
+  "version": "1.0.0",
+  "description": "slow http request",
+  "main": "src/index.js",
+  "author": "@tellesdourado",
+  "license": "MIT",
+  "dependencies": {
+    "net": "^1.0.2",
+    "tls": "^0.0.1"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
